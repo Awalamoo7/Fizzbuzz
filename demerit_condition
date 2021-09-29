@@ -1,0 +1,8 @@
+
+// Speed Limit = 70
+// For every 5km above speedlimit, give 1 point
+// More than 12 points, license suspended
+
+function checkSpeed() {
+
+}
