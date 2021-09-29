@@ -12,6 +12,5 @@ function fizzbuzz (input) {
     return "Buzz"
     else return input
 }
-
 const goal = fizzbuzz('e')
 console.log (goal);
