@@ -1,4 +1,4 @@
-// fizzbuzz game
+// fizzbuzz game created
 
 
 function fizzbuzz (input) {
