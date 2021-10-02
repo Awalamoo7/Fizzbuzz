@@ -3,5 +3,9 @@
 
 
 function showNumbers (Limit) {
-
+for (i = 1; i < Limit ; i++) {
+    const message = (i%2 === 0) ? 'EVEN' : 'ODD'
+     console.log (i, message)
 }
+}
+showNumbers(20)
