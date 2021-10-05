@@ -16,5 +16,6 @@ function checkSpeed(speed) {
     else return 'license Suspended'
 }
 
-console.log (checkSpeed(110))
+const speedCheck = checkSpeed(110);
+console.log (speedCheck);
 
